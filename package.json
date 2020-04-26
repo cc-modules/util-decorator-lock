@@ -1,0 +1,5 @@
+{
+  "name": "util-decorator-lock",
+  "version": "1.0.0",
+  "description": "Prevent async methods to be called before returned"
+}
